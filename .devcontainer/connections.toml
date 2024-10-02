@@ -2,9 +2,9 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "myaccount"
-user = "myuser"
-password = "mypassword"
+account = "https://xm00064.eu-central-1.snowflakecomputing.com"
+user = "casbright"
+password = "Bright2810!"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
 database = "HOL_DB"
